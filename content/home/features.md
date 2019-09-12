@@ -47,21 +47,22 @@ subtitle = ""
  css_class = ""
 +++
 
-Timesheet allows you to report consulting hours on per defined projects with further segmentation via rates.
+Report consulting hours on selected projects with further segmentation via rates.
 
 ![](/img/report.png)
 
-Admin can download all data in csv format, modify as required and import modified data.
+Admin can download all data in csv format, modify projects, rates, consultants or already reported records and import updated data back.
 
 ![](/img/backup-restore.png)
 
-Application provides API to automate subsequent reporting and billing processes.
+Application provides REST API to further automate reporting and billing process.
 
 Simple to set-up. Cloud or on-premise hosting using Docker containers.
 
----
+## Do you need more?
 
-<p class="cta-btns">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeh5Gw8iH9DlLQN3tjF66rrDLn5dkPnbi3V6vSjKAu0QPXnag/viewform?usp=sf_link" class="btn btn-primary btn-lg">Request a New Feature</a>
-</p>
-And we will respond in the next business day with estimated delivery time.
+Check the [demo](http://timesheet.simplesw.net:8080/), the [documentation](http://timesheet.simplesw.net:8080/documentation) or [contact us](#contact) directly.
+
+If the required feature is not implemented 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeh5Gw8iH9DlLQN3tjF66rrDLn5dkPnbi3V6vSjKAu0QPXnag/viewform?usp=sf_link" class="btn btn-primary btn-lg">Request a New Feature</a>
+ we will respond in the next business day with estimated delivery time.
