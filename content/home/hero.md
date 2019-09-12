@@ -50,6 +50,6 @@ hero_media = "screencast.gif"
 
 **Weekly / monthly reporting**
 
-<i>User friendly, fast, and realiable</i>
+<i>User-friendly, fast, and reliable</i>
 
 <!-- <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span> -->
