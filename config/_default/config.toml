@@ -16,7 +16,7 @@ baseurl = "https://timesheet.simplesw.net"
 copyright = "&copy; Stanislav Valasek {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-136827212-1"
 
 ############################
 ## Advanced options below ##
